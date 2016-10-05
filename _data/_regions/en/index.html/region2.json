@@ -1,1 +1,1 @@
-[{"_template":"href","url":"qwe","name":"werty"},{"_template":"html","content":"<p>Sample HTML</p>"}]
+[{"_template":"href","url":"qwe","name":"werty"},{"_template":"html","content":"<p>Sample HTML</p>\n<p>&nbsp;</p>\n<p><img src=\"https://s3.amazonaws.com/cdn.qa-traveltripper.info/2_125_331/media/florence_lightning.jpg\" width=\"491\" height=\"327\" /></p>","rendered_height":500}]
